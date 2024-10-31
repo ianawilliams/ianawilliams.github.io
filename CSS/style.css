@@ -923,6 +923,7 @@ p {
   padding-top: 50px;
   padding-bottom: 50px;
   color: #FFF;
+  overflow: hidden;
 }
 @media (min-width: 768px) {
   .education {
